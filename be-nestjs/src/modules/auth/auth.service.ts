@@ -67,7 +67,8 @@ export class AuthService extends AuthAbstractService {
     // send OTP to email
     //#TODO:  hardcore email to test const toEmailService = user.email
 
-    const EmailReceiver = 'huuloc2026@gmail.com';
+    //const EmailReceiver = 'huuloc2026@gmail.com';
+    const EmailReceiver = data.email
     this.sendEmailServiceBullMQ.add(EmailReceiver, newOTP);
     // return user infor basic
     return this.commonService.getUserOmitPassword(user);
