@@ -1,0 +1,52 @@
+[
+  {
+    "Status": "New",
+    "Description": "Brand new, factory sealed.",
+    "Price": 49.99
+  },
+  {
+    "Status": "Used - Excellent",
+    "Description": "Minimal signs of wear, works perfectly.",
+    "Price": 39.99
+  },
+  {
+    "Status": "Used - Good",
+    "Description": "Some cosmetic wear, fully functional.",
+    "Price": 29.99
+  },
+  {
+    "Status": "Used - Fair",
+    "Description": "Noticeable wear and tear, functional but may have issues.",
+    "Price": 19.99
+  },
+  {
+    "Status": "Refurbished",
+    "Description": "Professionally restored, like new condition.",
+    "Price": 44.99
+  },
+  {
+    "Status": "Damaged",
+    "Description": "Broken or non-functional, for parts only.",
+    "Price": 9.99
+  },
+  {
+    "Status": "Open Box",
+    "Description": "Opened but unused, complete with accessories.",
+    "Price": 42.5
+  },
+  {
+    "Status": "Pre-Owned",
+    "Description": "Gently used, well maintained.",
+    "Price": 35.0
+  },
+  {
+    "Status": "Sold",
+    "Description": "Item has been purchased and shipped.",
+    "Price": 0.0
+  },
+  {
+    "Status": "Backordered",
+    "Description": "Item is temporarily out of stock, expected soon.",
+    "Price": 55.0
+  }
+]
