@@ -2,6 +2,12 @@
 
 ## 📖 Overview
 This project is a high-performance, scalable subscription-based system designed with a microservices architecture. The system supports secure transactions, real-time order tracking, and optimized API responses using Redis caching and database optimizations. The application includes an admin dashboard with Server-Side Rendering (SSR) and Incremental Static Regeneration (ISR) to enhance performance and provide a seamless user experience.
+## 📝 Notes:
+
+This repository is a merged result of two separate development repositories:
+
+- **Front-end:** [https://github.com/huuloc2026/admin-dashboard](https://github.com/huuloc2026/admin-dashboard)
+- **Back-end:** [https://github.com/huuloc2026/nestjs-microservices-2025](https://github.com/huuloc2026/nestjs-microservices-2025)
 
 ## 🎬 Overview
 - Video Demo: [Click here](https://www.youtube.com/watch?v=4OVb5hOW2Js)
