@@ -7,7 +7,7 @@ This project is a high-performance, scalable subscription-based system designed 
 This repository is a merged result of two separate development repositories:
 
 - **Front-end:** [https://github.com/huuloc2026/admin-dashboard](https://github.com/huuloc2026/admin-dashboard)
-- **Back-end:** [https://github.com/huuloc2026/nestjs-microservices-2025](https://github.com/huuloc2026/nestjs-microservices-2025)
+- **Back-end:** [https://github.com/huuloc2026/nestjs-hexagonal-2025](https://github.com/huuloc2026/nestjs-hexagonal-2025)
 
 ## 🎬 Overview
 - Video Demo: [Click here](https://www.youtube.com/watch?v=4OVb5hOW2Js)
